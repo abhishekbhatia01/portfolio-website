@@ -23,4 +23,4 @@ This portfolio website serves as a digital resume, providing an overview of my s
 
 ## Deployment
 
-The website is deployed on GitHub Pages and can be accessed [here]([#insert-link-to-deployed-website](https://akshit1535.github.io/portfolio-website/)).
+The website is deployed on GitHub Pages and can be accessed [here]([https://akshit1535.github.io/portfolio-website/]).
