@@ -4,7 +4,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 
 ## Description
 
-This portfolio website serves as a digital resume, providing an overview of my skills, projects, and professional experience. It's designed to give visitors an insight into my capabilities and expertise as a developer.
+This portfolio website serves as a digital resume,  providing an overview of my skills, projects, and professional experience. It's designed to give visitors an insight into my capabilities and expertise as a developer.
 
 ## Features
 
