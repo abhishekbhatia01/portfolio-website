@@ -471,4 +471,5 @@ header nav .search i {
   display: flex;
   gap: 10px;
   margin-top: 7.5vh;
+  text-decoration: none;
 }
